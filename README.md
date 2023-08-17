@@ -1,4 +1,4 @@
-# Pixel-Art-Generator
+# Pixel-Art-Generator  (<a href="https://pixel-art-generator-6qjxiizpw-aaadityag.vercel.app/">Demo</a>)
 This is the web app we can use to paint something in a pixel art form, created with html5, css3 &amp; js.
 <hr><br>
 Steps you can follow to use pixel art generator:
